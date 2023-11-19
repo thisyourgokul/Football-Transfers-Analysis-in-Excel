@@ -9,4 +9,9 @@ Using a robust football dataset spanning two seasons (2021/2022 and 2022/2023), 
 
 Students working on this project will map transfers to and from countries across different associations, create summary tables to illustrate these transfers, compute net transfer movements, and obtain the total dollar amounts for the respective transactions.
 
-This Excel project offers a unique opportunity to blend the passion for football with the excitement of data-driven insights, fostering a deeper understanding of the global football economy. Whether you're a football enthusiast, a data analysis student, or both, this Excel project promises intriguing findings and a new perspective on this captivating game. It’s the perfect opportunity to validate several essential Excel skills
+This Excel project offers a unique opportunity to blend the passion for football with the excitement of data-driven insights, fostering a deeper understanding of the global football economy. Whether you're a football enthusiast, a data analysis student, or both, this Excel project promises intriguing findings and a new perspective on this captivating game. It’s the perfect opportunity to validate several essential Excel skills.
+
+Part 1: Database Review
+Part 2: Analyze the Aggregate Number of European Transfers
+Part 3: Analyze European Transfers by Country
+Part 4: Visualize Transfer Fees of Top 5 European Countries
